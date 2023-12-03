@@ -511,7 +511,9 @@ nav {
   display: flex;
   justify-content: center;
   align-items: center;
-  transition: 0.9s;
+  /* position: fixed;
+  bottom: 0;
+  right: 20px; */
   margin-bottom: 1rem;
 }
 
